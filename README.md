@@ -1,77 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Prakhar Verma</h1>
+<h1 align="center">🔐 Prakhar Verma</h1>
+<h3 align="center">Information Security Analyst | SOC Operations | Threat Detection | CEH Certified</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Information+Security+Analyst;CEH+%7C+CySA%2B+Certified;SOC+Operations+%7C+Threat+Detection;Passionate+About+Cybersecurity+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Cybersecurity+Analyst;Blue+Team+Specialist;Threat+Detection+%7C+Malware+Analysis;Always+Learning+%7C+Always+Defending" alt="Typing animation" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧩 Profile Summary
 
-🎯 I am a **Cybersecurity Analyst** with hands-on experience in:
-
-- 🔍 Threat Detection & Response  
-- 🛡️ SOC Operations & SIEM Monitoring  
-- 🧬 Malware & Phishing Analysis  
-- 🕵️ Penetration Testing & Bug Bounty
-
-💡 I love solving complex security challenges and continuously learning to keep up with evolving threats.
+Detail-driven **Cybersecurity Analyst** with strong skills in **SOC operations**, **threat detection**, and **incident response**. I have applied real-world security principles through internships, blue team platforms like Let'sDefend, and independent bug bounty research.  
+I specialize in identifying threats, dissecting malware, and supporting secure infrastructure—always striving to learn, adapt, and defend.
 
 ---
 
-## 📚 Education
+## 🧪 Projects & Labs
 
-🎓 **B.Tech**, Dr. A.P.J. Abdul Kalam Technical University  
-🗓️ *2021 - 2025*  
-📌 Projects: SIEM Training, Phishing Analysis, Static Malware Analysis, Active Directory Analysis
-
----
-
-## 💼 Experience
-
-### 👨‍💻 Corizo | Cybersecurity Intern  
-*Dec 2022 – Mar 2023*  
-- Conducted internal & external penetration tests  
-- Built and analyzed phishing simulations  
-- Gained SOC and incident response experience
-
-### 🐞 Freelance | Bug Bounty Hunter  
-*2021 – 2022*  
-- Reported vulnerabilities on platforms like HackerOne, Bugcrowd & Open Bug Bounty  
-- Collaborated with vendors for responsible disclosure
+### Let'sDefend Labs (Blue Team Platform)
+- 🟢 **SIEM Alert Handling** – Investigated and triaged security alerts
+- 🐛 **Malware Analysis** – Performed static and dynamic malware inspection
+- ✉️ **Phishing Analysis** – Analyzed suspicious email headers and payloads
+- 🛡️ **Active Directory Defense** – Detected privilege escalation and lateral movement
 
 ---
 
-## 🎓 Certifications
+## 💼 Internship & Experience
 
-![CEH](https://img.shields.io/badge/Certified-Ethical%20Hacker-red?logo=ceh&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia&logoColor=white)
+### Corizo – Cybersecurity Intern  
+🗓️ *Dec 2022 – Mar 2023*  
+- Executed penetration tests (internal & external)  
+- Built phishing campaigns for simulation training  
+- Supported SOC operations and basic incident response  
 
----
-
-## 🚀 Skills
-
-![NIST](https://img.shields.io/badge/NIST-%231a73e8.svg?logo=google&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO-27001-informational)
-![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-critical)
-![SOC Operations](https://img.shields.io/badge/SOC-Operations-orange)
-![SIEM](https://img.shields.io/badge/SIEM-Tools-brightgreen)
+### Freelance – Bug Bounty Hunter  
+🗓️ *2021 – 2022*  
+- Reported valid security bugs on **HackerOne**, **Bugcrowd**, and **Open Bug Bounty**  
+- Participated in responsible disclosure and vendor collaboration  
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Technical Skills
 
-[![Email](https://img.shields.io/badge/Email-prakhar.sec%40gmail.com-darkred?logo=gmail&logoColor=white)](mailto:prakhar.sec@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Verma-blue?logo=linkedin)](https://www.linkedin.com/in/prakharsec)
+![SOC](https://img.shields.io/badge/SOC-Operations-blue)
+![SIEM](https://img.shields.io/badge/SIEM-Tools-informational)
+![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-red)
+![Phishing](https://img.shields.io/badge/Phishing-Investigation-yellow)
+![NIST](https://img.shields.io/badge/NIST-CSF-success)
+![ISO 27001](https://img.shields.io/badge/ISO-27001-lightgrey)
+![Active Directory](https://img.shields.io/badge/Active--Directory-Defense-green)
+![Linux](https://img.shields.io/badge/Linux-Tools-darkgreen)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange)
+![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-blue)
 
 ---
 
-## ⚡ Fun Fact
+## 💬 Security Quote
 
-> **"Security is a process, not a product — I secure by design, not by patch."**
+> *"Cybersecurity isn’t just about building walls, it’s about watching what’s already inside."*
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar%20Verma-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharsec)  
+[![Email](https://img.shields.io/badge/Email-prakhar.sec%40gmail.com-red?logo=gmail)](mailto:prakhar.sec@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="250" alt="Cybersecurity animation" />
 </p>
