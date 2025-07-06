@@ -20,6 +20,10 @@ I am Certified Ethical Hacker (Practical), certified by EC-Council. I have hands
 ![Network Security](https://img.shields.io/badge/Network_Security_Analysis-9b2226?style=for-the-badge)
 ![Report Writing](https://img.shields.io/badge/Report_Documentation-6a040f?style=for-the-badge)
 ![InfoSec](https://img.shields.io/badge/Information_Security-ca6702?style=for-the-badge)
+[![OSINT](https://img.shields.io/badge/Skill-OSINT-blue?logo=datadog&logoColor=white)](https://en.wikipedia.org/wiki/Open-source_intelligence)
+[![Social Engineering](https://img.shields.io/badge/Skill-Social_Engineering-orange?logo=hackaday&logoColor=white)](https://en.wikipedia.org/wiki/Social_engineering_(security))
+[![Real-Time Threat Monitoring](https://img.shields.io/badge/Skill-Real--Time_Threat_Monitoring-red?logo=prometheus&logoColor=white)](https://www.crowdstrike.com/cybersecurity-101/threat-hunting/threat-monitoring/)
+
 
 ---
 
@@ -35,6 +39,8 @@ I am Certified Ethical Hacker (Practical), certified by EC-Council. I have hands
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-43B581?style=for-the-badge)
 ![Any.Run](https://img.shields.io/badge/Any.Run-orange?style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-008080?style=for-the-badge)
+[![SpiderFoot](https://img.shields.io/badge/Tool-SpiderFoot-4B0082?logo=github&logoColor=white)](https://github.com/smicallef/spiderfoot)
+[![Maltego](https://img.shields.io/badge/Tool-Maltego-6200EA?logo=target&logoColor=white)](https://www.maltego.com/)
 
 ---
 
